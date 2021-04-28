@@ -7,6 +7,11 @@ namespace gitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello !");
+
+            Console.WriteLine("Mabroook !! You are Programmer ..");
+             Console.WriteLine("Hala banat");
+
+
         }
     }
 }
