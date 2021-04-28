@@ -10,6 +10,16 @@ namespace gitTest
             Console.WriteLine("Welcome Taif !");
             Console.WriteLine("Hi Nada");
 
+
+
+              int d = 434534
+ 
+            
+            string a;
+            
+
+                                              Console.WriteLine("Pleeease): !");
+
         }
     }
 }
